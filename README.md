@@ -8,3 +8,4 @@ In my logic.js file, I used a basic layer to hold (Earthquakes / Tectonic Plates
 
 ### Visualization of index.html file
 https://github.com/909zamora/Mapping_Earthquakes/blob/main/California.JPG
+![image](https://user-images.githubusercontent.com/80786853/134548107-8c90986b-f823-4525-9161-21d51796be8c.png)
